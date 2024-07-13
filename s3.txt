@@ -1,0 +1,22 @@
+BONUS CHALLENGE
+Build a paywall for the tool
+
+In addition to the core functionality, we're interested in your innovative solutions fora paywall
+and different billing models for the tool
+
+«Subscription Model: Propose a tiered subscription plan based on usage or data access
+levels.
+
++ Pay-Per-Query Model: Develop a system where users pay per question asked to the
+chatbot.
+
++ Hybrid Model: Combine elements of both subscription and pay-per-query models
+
+EVALUATION CRITERIA
+
+Functionality and usability of the LLM integration
+User-friendliness and intuitiveness of the interface
+
+Depth and comprehensiveness of data analysis capabilities
+Creativity and feasibility of proposed billing models (bonus)
+Overall presentation and communication skills

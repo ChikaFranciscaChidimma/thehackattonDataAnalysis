@@ -1,0 +1,32 @@
+THE CHALLENGE
+
+The challenge is to build a prototype of a data analysis tool for large datasets on market
+performance, with a chatbot interface that will return values (texts, chats and tables) based on
+user input in the chatbot
+
+Content of the Datasets for the challenge
+
+For this challenge, you will be provided with an Excel dummy dataset on Noodles. The
+dataset includes the following metrics:
+
+«Product Information: Detailed descriptions of various noodle products, including
+brands, type, packaging, and price
+
+«Sales performance of each SKU
+
+«Inventory level: Stock levels of each SKU.
+
+«Pricing information: Pricing data for each SKU.
+
+What Success looks Like
+
+A query about “what is the best performing brand in Abidjan" should return a result which
+shows the brand with the most volume sales as calculated from the provided dataset.
+Submission will be graded on responsiveness of the chatbot (speed and conversational ability),
+accurate calculation of returned values, aesthetics of the tool and the ability to provide extra
+information relevant to the query.
+
+Accurate calculations are crucial for the success of this challenge, as they directly impact the
+quality and reliability of the chatbot's insights. The chatbot should be able to answer questions
+about retail performance based on the provided dataset. This may involve calculating sales
+performance, percentage changes, and market share metrics

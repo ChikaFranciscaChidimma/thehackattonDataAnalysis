@@ -1,0 +1,23 @@
+What Success looks Like
+
+A query about “what is the best performing brand in Abidjan" should return a result which
+shows the brand with the most volume sales as calculated from the provided dataset.
+Submission will be graded on responsiveness of the chatbot (speed and conversational ability),
+accurate calculation of returned values, aesthetics of the tool and the ability to provide extra
+information relevant to the query.
+
+Accurate calculations are crucial for the success of this challenge, as they directly impact the
+quality and reliability of the chatbot's insights. The chatbot should be able to answer questions
+about retail performance based on the provided dataset. This may involve calculating sales
+performance, percentage changes, and market share metrics
+
+The chatbot should be able to handle a variety of queries, including;
+
+© Product sales trends over time (e.g. What were the top-performing brands in
+the last quarter?)
+
+Comparison of sales performance across different cities (e.g, What was the
+performance of BRAND A compared to BRAND Bin each quarter in the
+various cities)
+
+© Market View: What is the market size in each quarter?
